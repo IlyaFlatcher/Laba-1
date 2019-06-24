@@ -1,0 +1,48 @@
+body{
+	background: DarkSlateBlue;
+}
+*{
+	padding: 0px;
+	margin: 10px;
+	
+}
+.site{
+	margin: 20px;
+	width: 950px;
+	height: 600px;
+	margin: auto;
+}
+.header{
+	margin: 10px;
+	width: 1350px;
+	height: 200px;
+	border-radius: 9px;
+	background: white;
+}
+.block1{
+	margin: 10px;
+	width: 1000px;
+	height: 700px;
+	border-radius: 9px;
+	background: white;
+}
+.block2{
+	margin: 10px;
+	width: 500px;
+	height: 900px;
+	border-radius: 9px;
+	background: white;
+}
+.block3{
+	margin: 30px;
+	width: 510px;
+	height: 350px;
+	border-radius: 9px;
+	background: white;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
